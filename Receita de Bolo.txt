@@ -1,0 +1,72 @@
+-Aqueça o forno
+-Pegue um copo
+-Pegue uma vasilha
+-Coloque o copo e a vasilha na bancada
+-Pegue um ovo
+-Quebre o ovo com a borda do copo
+-Coloque o conteúdo do ovo dentro do copo
+-Jogue a casca do ovo no lixo
+-Observe o conteúdo do ovo no copo
+-Se o conteúdo do ovo estiver estragado, jogue fora
+-Se o conteúdo do ovo não estiver estragado, coloque na vasilha
+-Repita esse processo até ter 3 gemas e claras de ovo na vasilha
+-Pegue o pote de açúcar
+-Pegue uma xícara
+-Encha a xícara com açúcar
+-Coloque o açúcar da xícara na vasilha
+-Encha a xícara com açúcar
+-Coloque o açúcar da xícara na vasilha
+-Coloque a xícara e o pote de açúcar na bancada
+-Pegue 250g de margarina
+-Coloque 250g de margarina na vasilha
+-Pegue uma colher de pau
+-Misture o conteúdo da vasilha com a colher de pau até virar uma massa homogênea
+-Deixe a colher de pau dentro da vasilha com o cabo para fora
+-Pegue o pote de farinha de trigo com fermento
+-Pegue uma xícara
+-Encha a xícara com farinha de trigo com fermento
+-Coloque a farinha com fermento da xícara na vasilha
+-Encha a xícara com farinha de trigo com fermento
+-Coloque a farinha com fermento da xícara na vasilha
+-Encha a xícara com farinha de trigo com fermento
+-Coloque a farinha com fermento da xícara na vasilha
+-Coloque o pote de farinha de trigo com fermento na bancada
+-Pegue a caixa de leite
+-Encha a xícara com o leite
+-Coloque o leite da xícara na vasilha
+-Coloque a xícara em cima da bancada
+-Misture o conteúdo da vasilha com a colher de pau até virar uma massa homogênea
+-Deixe a colher de pau dentro da vasilha com o cabo para fora
+-Pegue uma forma de bolo
+-Pegue um pouco de margarina
+-Espalhe a margarina uniformemente pela parte interna da forma de bolo
+-Pegue o pote de farinha
+-Coloque um pouco de farinha na parte interna da forma de bolo
+-Coloque o pote da farinha na bancada
+-Sacuda a forma de bolo de forma que a farinha se espalhe grudando na margarina
+-Coloque a forma do bolo na bancada com a parte interna virada para cima
+-Pegue a vasilha
+-Coloque o conteúdo da vasilha na parte interna da forma de bolo com o auxílio da colher de pau
+-Coloque a vasilha e a colher de pau na bancada
+-Abra a porta do forno
+-Coloque a forma de bolo com a massa no forno
+-Feche a porta do forno
+-Espere 30 minutos
+-Pegue um palito de dente
+-Abra a porta do forno
+-Espete o bolo com o palito de dente
+-Remova o palito de dente
+-Se o palito de dente estiver limpo, o bolo está pronto
+-Se o palito de dente estiver sujo, o bolo não está pronto
+-Se o bolo não estiver pronto:
+ -Feche a porta do forno
+ -Aguarde 5 minutos
+ -Repita o processo do palito de dente
+-Se o bolo estiver pronto:
+ -Desligue o forno
+ -Coloque uma madeira de proteção na bancada
+ -Pegue pano de prato
+ -Cubra suas mãos com o pano de prato
+ -Pegue a forma do bolo firmemente
+ -Coloque a forma do bolo em cima da madeira de proteção
+ -Feche a porta do forno
